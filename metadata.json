@@ -1,0 +1,8 @@
+{
+  "name": "WisdomMotion: AI Logo Animator",
+  "description": "Design professional logos using Gemini 3 and transform them into stunning animations with Veo. Perfect for non-profits and educational organizations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
